@@ -1,0 +1,308 @@
+[
+  {
+    "Code": "L1A",
+    "Status": 1,
+    "Guest": {
+      "FullName": "Phạm Văn Diện",
+      "FoodCode": "FC1",
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1B",
+    "Status": 0,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1C",
+    "Status": 1,
+    "Guest": {
+      "FullName": "Ngô Trường",
+      "FoodCode": "FC2",
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1D",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1E",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1F",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1G",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1H",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1I",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L1K",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2A",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2B",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2C",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2D",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2E",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L2F",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  },
+  {
+    "Code": "L3A",
+    "Status": -1,
+    "Guest": {
+      "FullName": null,
+      "FoodCode": null,
+      "In": null,
+      "Out": null,
+      "FMoney": 0,
+      "WeekPrice": 0,
+      "NumberOfWeeks": 0,
+      "DayPrice": 0,
+      "OddDays": 0,
+      "RoomMoney": 0,
+      "Discount": 0,
+      "Total": 0
+    }
+  }
+]
